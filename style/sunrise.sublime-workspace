@@ -1,0 +1,557 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"information"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"REQUEST_METHOD",
+				"REQUEST_METHOD"
+			],
+			[
+				"email",
+				"email"
+			],
+			[
+				"inline",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/openserver/domains/sunrise/index.html",
+			"settings":
+			{
+				"buffer_size": 1418,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/openserver/domains/sunrise/countryCheck.php",
+			"settings":
+			{
+				"buffer_size": 203,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 298,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 114.0,
+		"last_filter": "Package Control: instal",
+		"selected_items":
+		[
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package control: Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Packa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 310.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/openserver/domains/sunrise"
+	],
+	"file_history":
+	[
+		"/C/Users/zub20/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/zub20/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/C/Users/zub20/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/zub20/AppData/Roaming/Sublime Text 3/Packages/User/ThemrFavorites.sublime-settings",
+		"/C/Users/zub20/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/openserver/domains/sunrise/index.html",
+		"/C/openserver/modules/database/MySQL-5.7-x64/share/innodb_memcached_config.sql",
+		"/C/openserver/domains/ajax/content.php",
+		"/C/openserver/domains/ajax/check.php",
+		"/C/openserver/domains/ajax/countryCheck.php",
+		"/C/openserver/domains/ajax/index.php",
+		"/C/openserver/domains/ajax/actions.php",
+		"/C/openserver/domains/ajax/js/aJaX.js",
+		"/C/openserver/domains/ajax/templates/Default/main.tpl",
+		"/C/openserver/domains/ajax/engine/ajax/templates.php",
+		"/C/openserver/domains/repper/engine/engine.php",
+		"/C/Users/zub20/AppData/Local/Temp/fz3temp-1/dbconfig.php",
+		"/C/Users/zub20/AppData/Local/Temp/fz3temp-1/default.php",
+		"/C/Users/zub20/AppData/Local/Temp/fz3temp-1/config.php",
+		"/C/Users/zub20/AppData/Local/Temp/fz3temp-1/mysql.php",
+		"/C/openserver/domains/dle/engine/classes/mysql.php",
+		"/C/Users/zub20/AppData/Local/Temp/Rar$DIa0.950/fontello.css",
+		"/C/Users/zub20/AppData/Local/Temp/Rar$DIa0.883/style.css",
+		"/C/Users/zub20/AppData/Local/Temp/Rar$DIa0.824/style.css",
+		"/C/Users/zub20/AppData/Local/Temp/Rar$DIa0.028/style.css",
+		"/C/openserver/domains/repper/engine/data/config.php",
+		"/C/openserver/domains/repper/engine/classes/comments.class.php",
+		"/C/openserver/domains/repper/templates/redesign/navigation.tpl",
+		"/C/openserver/domains/repper/templates/redesign/ario/arioGlobal.css",
+		"/C/openserver/domains/repper/templates/redesign/navigate.tpl",
+		"/C/openserver/domains/repper/templates/redesign/fonts/GardensC_03_1.otf",
+		"/C/openserver/domains/repper/engine/modules/main.php",
+		"/C/openserver/domains/repper/templates/redesign/main - Copy.tpl",
+		"/C/openserver/domains/repper/index.php",
+		"/C/openserver/domains/repper/engine/data/dbconfig.php",
+		"/C/Users/zub20/Desktop/РАБОТА/test.html",
+		"/C/openserver/domains/repper/engine/init.php",
+		"/C/openserver/domains/repper/admin.php",
+		"/C/Users/zub20/Desktop/РАБОТА/facemenu/create.html",
+		"/C/openserver/domains/repper/templates/redesign/css/engine.css",
+		"/C/openserver/domains/repper/templates/redesign/css/styles.css",
+		"/C/openserver/domains/repper/templates/redesign/addcomments.tpl",
+		"/C/openserver/domains/repper/templates/redesign/ario/reaction.php",
+		"/C/openserver/domains/repper/templates/redesign/ario/aCore.js",
+		"/C/openserver/domains/repper/templates/redesign/ario/arioGhosts.css",
+		"/C/openserver/domains/dle/index.php",
+		"/C/openserver/domains/phpOOP/phpclass.php",
+		"/C/openserver/domains/phpOOP/classShopProduct.php",
+		"/C/openserver/domains/phplearning/connect_sql.php",
+		"/C/openserver/domains/phplearning/create_database.php",
+		"/C/openserver/domains/phplearning/update_data.php",
+		"/C/openserver/domains/phplearning/create_table.php",
+		"/C/openserver/domains/phplearning/prepare_statements.php",
+		"/C/openserver/domains/phplearning/select_data.php",
+		"/C/openserver/domains/phplearning/delete_data.php",
+		"/C/openserver/domains/phplearning/filter_list.php",
+		"/C/openserver/domains/phplearning/demo_session1.php",
+		"/C/openserver/domains/phplearning/demo_session2.php",
+		"/C/openserver/domains/phplearning/rem_session.php",
+		"/C/openserver/domains/phplearning/error_function.php",
+		"/C/openserver/domains/phplearning/exception.php",
+		"/C/openserver/domains/phplearning/extend_exception_class.php",
+		"/C/openserver/domains/phplearning/index.html",
+		"/C/openserver/domains/phplearning/index.php",
+		"/C/openserver/domains/phplearning/upload.php",
+		"/C/openserver/domains/phplearning/test_input.php",
+		"/C/Users/zub20/AppData/Roaming/Sublime Text 3/Packages/Schemr/SchemrFavorites.sublime-settings",
+		"/C/Users/zub20/AppData/Roaming/Sublime Text 3/Packages/Themr/ThemrFavorites.sublime-settings",
+		"/C/Users/zub20/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/zub20/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/zub20/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/zub20/AppData/Roaming/Sublime Text 3/Packages/User/Plain text.sublime-settings"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+			"C:\\openserver\\domains\\repper"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"bb9d59",
+			"login",
+			"Америка",
+			"имя",
+			"=\" ",
+			"Введите",
+			"placeholder",
+			"name",
+			"text",
+			"jq",
+			"Admin",
+			"generator",
+			"title = \"Datalife",
+			"title= \"Datalife",
+			"title=\"Datalife",
+			"Datalife",
+			"Data-life",
+			"title",
+			"local",
+			"user",
+			"local",
+			"loca",
+			"a {",
+			"a:hover, a:focus",
+			"p, ul, ol",
+			"a {",
+			"table",
+			"*",
+			"body",
+			"cont",
+			"* {",
+			"body",
+			"ищвн",
+			"css",
+			"theme",
+			"gly",
+			"collapse",
+			"tab ",
+			"tab",
+			".fadeOut('slow')",
+			"non",
+			"th {",
+			"th",
+			"Диагностика",
+			"и",
+			"table",
+			"h",
+			"table",
+			"div ",
+			"div",
+			"1126",
+			"1128",
+			"1127",
+			"1126",
+			"port",
+			"@media",
+			"font-size",
+			"small",
+			"fs",
+			"col-",
+			"@fon",
+			"link",
+			"primary",
+			"span",
+			"navbar",
+			"navbar-fix",
+			"ul ",
+			"ul",
+			"ul a",
+			"ul > a",
+			"navbar-collapse",
+			"navbar",
+			"a",
+			"navbar a",
+			"navbar",
+			"btn",
+			"col-",
+			"col",
+			"panel",
+			"font",
+			"background",
+			"ul ",
+			"ul",
+			"navbar",
+			"nav",
+			"header",
+			"margin: 0",
+			"margin: 0 auto",
+			"margin: auto",
+			"center",
+			"	color: #353535;",
+			"charset",
+			"load_template(",
+			"load_template",
+			"main.",
+			"dle_post",
+			"box_in",
+			"box story shortstory",
+			"<a href=\"http://forum.dle-news.ru/index.php\" target=\"_blank\">",
+			"Техническая поддержка скрипта",
+			"важаемые вебмастера хотим для вас сделать небольшое дополнение",
+			"content",
+			"john",
+			"John",
+			"name",
+			"right",
+			"Name",
+			"name",
+			"Name",
+			"name",
+			"Name",
+			"name"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\openserver\\domains\\sunrise"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/openserver/domains/sunrise/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1418,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								171,
+								171
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML Extended/HTML-extended.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/openserver/domains/sunrise/countryCheck.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 203,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								69,
+								69
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 298,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								296,
+								296
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		]
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 240.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
